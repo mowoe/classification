@@ -1,2 +1,2 @@
 # classification
-The somplest implementation of machine learning True/False classification
+The simplest implementation of machine learning True/False classification
